@@ -1,0 +1,10 @@
+git add index.html
+git add .
+
+git commit -m "Přidán index.html"
+
+clear
+x	
+x
+;
+
